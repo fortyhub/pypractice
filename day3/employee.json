@@ -1,0 +1,23 @@
+[
+  {
+    "first_name": "张",
+    "last_name": "三",
+    "age": 29,
+    "sex": 'M',
+    "income": 10000
+  },
+  {
+    "first_name": "芬",
+    "last_name": "李",
+    "age": 25,
+    "sex": 'W',
+    "income": 8000
+  },
+  {
+    "first_name": "五",
+    "last_name": "王",
+    "age": 30,
+    "sex": 'M',
+    "income": 30000
+  }
+]
